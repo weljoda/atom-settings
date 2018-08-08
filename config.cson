@@ -1,0 +1,23 @@
+"*":
+  "atom-material-ui":
+    colors: {}
+    tabs: {}
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 16
+  "exception-reporting":
+    userId: "18ef206a-d484-4b8e-ab23-b4caa561cbfb"
+  "file-icons":
+    strategies: {}
+  minimap:
+    autoToggle: false
+  welcome:
+    showOnStartup: false
